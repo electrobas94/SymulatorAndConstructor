@@ -1,0 +1,30 @@
+[info]
+author = electrobas94
+name = symulator
+title = 3d Lab Symulator
+icon = 
+
+[paths]
+assets_dirs = deploy/assets/symulator;
+blend_dirs = blender/symulator;
+blender_exec = blender
+build_dir = deploy/apps/symulator
+deploy_dir = 
+
+[compile]
+apps = 
+css_ignore = 
+engine_type = external
+ignore = 
+js_ignore = 
+optimization = simple
+use_physics = 
+use_smaa_textures = 
+version = 
+
+[deploy]
+assets_path_dest = assets
+assets_path_prefix = assets
+ignore = 
+override = 
+
